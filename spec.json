@@ -1,0 +1,50 @@
+{
+    "name":  "noise-gone",
+    "logo":  "🔇",
+    "exe":  "NoiseGone.exe",
+    "desc":  "Free, open-source audio noise remover for Windows — local AI denoise for voice recordings, batch cleanup. 100 MB portable, offline, MIT.",
+    "topics":  [
+                   "noise-removal",
+                   "audio-denoise",
+                   "voice-recording",
+                   "onnx",
+                   "podcast-editing",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "background-hum",
+                   "batch-processing",
+                   "rnnoise",
+                   "offline",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Local AI denoise** — fan hum, room tone and keyboard clatter removed with ONNX models on your machine",
+                     "✅ **Noise profile learn** — select two seconds of pure noise and the filter targets that exact signature",
+                     "✅ **Strength dial** — from subtle cleanup to aggressive extraction, with an A/B bypass button",
+                     "✅ **Batch podcast cleanup** — a folder of episodes processed with identical settings",
+                     "✅ **Voice and music modes** — speech-optimized or gentle mode that leaves room reverb natural",
+                     "✅ **Waveform A and B** — original and cleaned waveforms stacked for instant comparison",
+                     "✅ **100 MB self-contained exe** — runtime bundled, models download separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **noise-gone** | Adobe Podcast Enhance | Krisp | Audacity noise reduction |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free web, limits | Paid subscription | Free, OSS |",
+                    "| Open source | **Yes** | No | No | Yes |",
+                    "| Files stay local | **Yes** | Upload | Yes | Yes",
+                    "| Batch episodes | **Yes** | One at a time | Calls only | Manual",
+                    "| Noise profile learning | **Yes** | No | Auto only | Manual FFT",
+                    "| Portable, no install | **Yes, 100 MB** | Browser | Installer | Installer"
+                ],
+    "faqQ":  "how to remove background noise from recordings free, offline?",
+    "faqA":  "Cloud enhancers upload every recording and cap free runs, and classic spectral tools need an audio engineer\u0027s patience. noise-gone learns your noise profile, denoises with local models and batches whole folders. It is a 100 MB portable exe, MIT, unlimited, with a bypass button so you can trust what it changed.",
+    "s1":  "Dark audio view (#121417, cyan #06B6D4): stacked waveforms before and after, noise profile strip at the head, strength dial at 0.7, A-B bypass lit.",
+    "s2":  "Batch panel: 38 episode files queued with minutes-saved column, voice mode badge, progress at 61 percent, folder destination chip.",
+    "s3":  "Profile step: two-second selection highlighted on the waveform, learn button, noise signature mini-chart, apply-to-all checkbox enabled."
+}
